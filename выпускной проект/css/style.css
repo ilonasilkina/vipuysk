@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Stint Ultra Condensed', cursive;
+    color: white;
+    background-image: url(/img/fon.jpg);
+}
+nav{
+    background-image: url(/img/fon.jpg);
+}
+.navbar-brand img {
+    width: 300px;
+    height: 150px;
+  
+
+}
+.navbar-nav li {
+    padding-right: 20px;
+
+}
+.nav-link{
+    font-size: 40px;
+}
+.udobstvoh{
+    text-align: center;
+    font-size: 3 0px;
+}
+.udobstvo{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kachestvoh{
+    text-align: center;
+    font-size: 30px;
+}
+.kachestvo{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.volkswagenh{
+    text-align: center;
+    font-size: 60px;
+}
+
+.volkswagenp{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.carousel-inner {
+    height: 500px;
+}
+
+.carousel-inner img{
+    transform: translateY(-30%);
+    width: 100%;
+    height: 100%;
+    padding: 120px;
+    
+    
+    
+}
+
+
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-80%);
+
+}
+.hictoryvwh{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.historyvwp{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cvw{
+    padding: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.vwspt{
+    color: greenyellow;
+}
+
+.audih{
+    text-align: center;
+    font-size: 60px;
+}
+
+.audip{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hictoryauh{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.historyaup{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cau{
+    padding: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.auspt{
+    color: greenyellow;
+}
+.bmwh{
+    text-align: center;
+    font-size: 60px;
+}
+
+.bmwp{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.hictorybmwh{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.historybmwp{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cbmw{
+    padding: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bmwspt{
+    color: greenyellow;
+}
+
+.mersh{
+    text-align: center;
+    font-size: 60px;
+}
+
+.mersp{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.hictorymersh{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.historymersp{
+    padding: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cmers{
+    padding: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mersspt{
+    color: greenyellow;
+}
+        .copy-w3right {
+    background: #191919;
+    padding: 1.5em 0;
+    text-align: center;
+    }
+    .copy-w3right p {
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    }
+    .copy-w3right p  {
+    color: greenyellow;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    transition: 0.5s all;
+    }
+    
+
+    
+    
+    
+
+    .subscribe {
+        background-image: url(/img/fon.jpg);
+    }
